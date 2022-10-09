@@ -10,16 +10,11 @@ Learning to code with a language like R takes some time and effort on your part.
 
 You should expect to feel some frustration, because everybody does. Frustration is OK so long as you can persevere through it. When you finally solve the problem and your code works it's a GREAT feeling.
 
-## Day 1
-In this first day we'll get comfortable with RStudio and the basic concepts of programming. 
-
 #### Resources
 -   [Slideshow of R Basics](https://andrewbtran.github.io/chj-r/01_intro_to_r_rstudio.html#) (courtesy of Andrew Ba Tran)
 -   [Tidyverse documentation](https://www.tidyverse.org/): We'll be referring back to this a lot. Get used to reading documentation; it's an important skill!
 -   [data](data/): Some of the data we'll be using for this class is in the data folder of this repository
 -   [practice scripts](practice/): There are exercises in the practice folder that you can work on your own time
-
-#### Session scripts
 
 
 #### Practice
